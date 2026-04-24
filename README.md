@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Gunal
 
-<!--
-**m3rcury02/m3rcury02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Spring Boot Backend Engineer focused on production backend systems.
 
-Here are some ideas to get you started:
+## Core Stack
+Java · Spring Boot · PostgreSQL · Redis · REST APIs · Spring Security · Docker · CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Production Experience
+Worked on backend modules for a large-scale Warehouse Management System across multi-tenant warehouse operations, async processing, Redis caching, PostgreSQL optimization, reporting workflows, and production debugging.
+
+## Featured Projects
+- SupportOps AI — RBAC, multi-tenancy, Redis queues, AI approval workflows, observability
+- GCP Full-Stack Deployment — Cloud Run, Docker, GitHub Actions, Workload Identity Federation
